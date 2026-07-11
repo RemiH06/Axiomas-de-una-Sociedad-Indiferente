@@ -21,7 +21,7 @@ La estructura de escrito son seis partes a las que nombré axiomas (aunque es pr
 - Capital v2
 - Sociedad v3
 - Devoción v2
-- Realidad v0.1
+- Realidad v0.2
 - Futuro
 
 En este repositorio se encuentran solamente las cinco primeras partes del manifiesto.
