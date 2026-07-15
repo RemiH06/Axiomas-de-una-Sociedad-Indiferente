@@ -21,9 +21,11 @@ La estructura de escrito son seis partes a las que nombré axiomas (aunque es pr
 - Capital v2
 - Sociedad v3
 - Devoción v2
-- Realidad v0.2
+- Realidad v0.3
 - Futuro
 
-En este repositorio se encuentran solamente las cinco primeras partes del manifiesto.
+El poder, el capital, la sociedad y la devoción son los cuatro pilares del mundo contemporáneo. Postulo este análisis para sostener opiniones y en base a estas proponer cambios estructurales y sistémicos.
+
+En este repositorio se encuentran solamente las cinco primeras partes del manifiesto tanto en markdown como en pdf. 
 
 Gracias por leer.
