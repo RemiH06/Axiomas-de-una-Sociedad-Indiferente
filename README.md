@@ -21,7 +21,7 @@ La estructura de escrito son seis partes a las que nombré axiomas (aunque es pr
 - Capital v2
 - Sociedad v3
 - Devoción v2
-- Realidad v0.4
+- Realidad v1
 - Futuro
 
 El poder, el capital, la sociedad y la devoción son los cuatro pilares del mundo contemporáneo. Postulo este análisis para sostener opiniones y en base a estas proponer cambios estructurales y sistémicos.
