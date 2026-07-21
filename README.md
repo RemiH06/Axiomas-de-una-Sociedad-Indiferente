@@ -11,10 +11,10 @@
  ||    || ||      . '|.. .|' ||  ||      ||       ||  ||       ||     .|' ||  ||       ||  ||   ||  ||  ||   ||  . '|..  ||   .|' ||  
 .||...|'   '|...' |'..|' '|..'|'  '|...'  '|...' .||.  '|...' .||.    '|..'|'  '|...' .||.  '|..|' .||. ||. .||. |'..|'  '|.' '|..'|' 
                                                                                                                                       
-       by Hex (@RemiH06)          version 0.4
+       by Hex (@RemiH06)          version 0.5
 ```
 
-Después de poco más de un año de unir notas sueltas sobre las opiniones que tengo de mi entorno, decidí publicar parte del contenido que llevo escrito, sin correcciones ni ediciones. Lo más seguro es que termine no siendo la versión definitiva pero si llegan a haber cambios muy probablemente sea para añadir ideas y conectarlas con lo que ya está, o simplemente mejorar mi redacción, incluso entre lo publicado existen algunas partes que no terminan de gustarme. 
+Después de poco más de un año de unir notas sueltas sobre las opiniones que tengo de mi entorno, decidí publicar parte del contenido que llevo escrito, sin correcciones ni ediciones. Lo más seguro es que termine no siendo la versión definitiva pero si llegan a haber cambios muy probablemente sea para añadir ideas y conectarlas con lo que ya está, o simplemente mejorar mi redacción. Incluso entre lo publicado existen algunas partes que no terminan de gustarme. 
 
 La estructura de escrito son seis partes a las que nombré axiomas (aunque es probable que encajen mejor con la definición de precepto) y cada uno contiene varios apartados con sus respectivos temas:
 - Poder v3
@@ -22,10 +22,10 @@ La estructura de escrito son seis partes a las que nombré axiomas (aunque es pr
 - Sociedad v3
 - Devoción v2
 - Realidad v1
-- Futuro
+- Futuro v0.1
 
 El poder, el capital, la sociedad y la devoción son los cuatro pilares del mundo contemporáneo. Postulo este análisis para sostener opiniones y en base a estas proponer cambios estructurales y sistémicos.
 
-En este repositorio se encuentran solamente las cinco primeras partes del manifiesto tanto en markdown como en pdf. 
+En este repositorio se encuentran las seis partes del manifiesto tanto en markdown como en pdf y la forma en que han ido evolucionando.
 
 Gracias por leer.
