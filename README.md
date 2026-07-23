@@ -11,7 +11,7 @@
  ||    || ||      . '|.. .|' ||  ||      ||       ||  ||       ||     .|' ||  ||       ||  ||   ||  ||  ||   ||  . '|..  ||   .|' ||  
 .||...|'   '|...' |'..|' '|..'|'  '|...'  '|...' .||.  '|...' .||.    '|..'|'  '|...' .||.  '|..|' .||. ||. .||. |'..|'  '|.' '|..'|' 
                                                                                                                                       
-       by Hex (@RemiH06)          version 0.5
+       by Hex (@RemiH06)          version 0.6
 ```
 
 Después de poco más de un año de unir notas sueltas sobre las opiniones que tengo de mi entorno, decidí publicar parte del contenido que llevo escrito, sin correcciones ni ediciones. Lo más seguro es que termine no siendo la versión definitiva pero si llegan a haber cambios muy probablemente sea para añadir ideas y conectarlas con lo que ya está, o simplemente mejorar mi redacción. Incluso entre lo publicado existen algunas partes que no terminan de gustarme. 
@@ -22,7 +22,7 @@ La estructura de escrito son seis partes a las que nombré axiomas (aunque es pr
 - Sociedad v3
 - Devoción v2
 - Realidad v1
-- Futuro v0.1
+- Futuro v1
 
 El poder, el capital, la sociedad y la devoción son los cuatro pilares del mundo contemporáneo. Postulo este análisis para sostener opiniones y en base a estas proponer cambios estructurales y sistémicos.
 
