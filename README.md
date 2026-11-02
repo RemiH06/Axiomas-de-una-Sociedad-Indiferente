@@ -11,7 +11,7 @@
  ||    || ||      . '|.. .|' ||  ||      ||       ||  ||       ||     .|' ||  ||       ||  ||   ||  ||  ||   ||  . '|..  ||   .|' ||  
 .||...|'   '|...' |'..|' '|..'|'  '|...'  '|...' .||.  '|...' .||.    '|..'|'  '|...' .||.  '|..|' .||. ||. .||. |'..|'  '|.' '|..'|' 
                                                                                                                                       
-       by Hex (@RemiH06)          version 1.0
+       by RemLam (@RemiH06)          version 1.0
 ```
 
 Después de poco más de un año de unir notas sueltas sobre las opiniones que tengo de mi entorno, decidí publicar parte del contenido que llevo escrito, sin correcciones ni ediciones. Lo más seguro es que termine no siendo la versión definitiva pero si llegan a haber cambios muy probablemente sea para añadir ideas o simplemente mejorar mi redacción.
